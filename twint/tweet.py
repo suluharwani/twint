@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 
 import logging as logme
 from googletrans import Translator
+# googletrans==4.0.0rc1
 # ref. 
 # - https://github.com/x0rzkov/py-googletrans#basic-usage
 translator = Translator()
